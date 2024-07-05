@@ -1,0 +1,2 @@
+start cmd.exe /k "cd /d C:\Program Files\MongoDB\Server\7.0\bin && mongod.exe --dbpath C:\estudio\BootCamp\api-rest-social-network\bdata-mongodb"
+start cmd.exe /k "cd /d C:\estudio\BootCamp\api-rest-social-network && npm run start:watch"
